@@ -7,7 +7,6 @@ Features to add:
 -Save user preferences
 --Add "now playing" feature to create carousel of all movies playing in user's local theatre
 -Create preset set buttons
-  (e.g.
-  Minimal Set: Only parental guide returned
-  Comprehensive Set: Parental guide, MPAA rating, Rotten Tomatoes rating, returned.
+  -Minimal Set: Only parental guide returned
+  -Comprehensive Set: Parental guide, MPAA rating, Rotten Tomatoes rating, returned.
 
