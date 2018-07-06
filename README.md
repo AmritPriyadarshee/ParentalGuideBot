@@ -11,3 +11,12 @@ Features to add: <br />
 -Format messages for better easier viewing <br />
 
 
+How to Run: <br />
+Install the following modules: <br />
+npm install --save imdb-api <br />
+npm install cheerio <br />
+npm install --save request <br />
+npm install --save request-promise <br />
+
+Local dev was done through Ngrok on port 1337.
+
