@@ -1,7 +1,7 @@
 # ParentalGuideBot
 Provides the IMDB parental guide content allowing the user to pre-screen the appropriateness of a movie through Facebook Messenger.
 
-You can see a brief demo of it in action here! https://www.amritp.com/projects.html
+You can see a brief demo of it in action here! https://www.youtube.com/watch?v=IuPerC4ozMM
 
 Features to add: <br />
 -Low-data option for mobile <br />
